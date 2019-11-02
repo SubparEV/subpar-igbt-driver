@@ -24,13 +24,13 @@ Dual Channel IGBT Gate driver for EV motor drive.
 
 Currently not looking for external contributers.
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](//) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
 * **Rafael Silva** - *initial work* - [gimbas](https://github.com/crying-face-emoji)
 
-See also the list of [contributors](https://github.com/gimbas/cp2130/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/SubparEV/subpar-igbt-driver/graphs/contributors) who participated in this project.
 
 ## License
 
